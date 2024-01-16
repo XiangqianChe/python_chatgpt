@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="15_natural_language_processing_in_python_with_nltk.py">
-      <change afterPath="$PROJECT_DIR$/src/16_web_scraping_in_python_with_beautifulsoup.py" afterDir="false" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="16_web_scraping_in_python_with_beautifulsoup.py">
+      <change afterPath="$PROJECT_DIR$/src/17_gui_programming_in_python_with_tkinter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,8 @@
     "Python.13_data_science_in_python_with_pandas.executor": "Run",
     "Python.14_machine_learning_in_python_with_scikit_learn.executor": "Debug",
     "Python.15_natural_language_processing_in_python_with_nltk.executor": "Run",
+    "Python.16_web_scraping_in_python_with_beautifulsoup.executor": "Run",
+    "Python.17_gui_programming_in_python_with_tkinter.executor": "Run",
     "Python.1_introduction_to_python.executor": "Run",
     "Python.4_object_oriented_programming_in_python.executor": "Run",
     "Python.5_exception_handling_in_python.executor": "Run",
@@ -229,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705437441159</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="16_web_scraping_in_python_with_beautifulsoup.py">
+      <option name="closed" value="true" />
+      <created>1705437883702</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705437883702</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +271,7 @@
     <MESSAGE value="13_data_science_in_python_with_pandas.py" />
     <MESSAGE value="14_machine_learning_in_python_with_scikit_learn.py" />
     <MESSAGE value="15_natural_language_processing_in_python_with_nltk.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="15_natural_language_processing_in_python_with_nltk.py" />
+    <MESSAGE value="16_web_scraping_in_python_with_beautifulsoup.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="16_web_scraping_in_python_with_beautifulsoup.py" />
   </component>
 </project>
