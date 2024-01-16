@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="9_python_modules_and_packages.py">
-      <change afterPath="$PROJECT_DIR$/src/9_python_modules_and_packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_package/module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my_package/module2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="0_python_tutorial_outline" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705420298207</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="0_python_tutorial_outline">
+      <option name="closed" value="true" />
+      <created>1705420619937</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420619937</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +198,7 @@
     <MESSAGE value="7_file_handling_in_python.py" />
     <MESSAGE value="8_python_standard_library.py" />
     <MESSAGE value="9_python_modules_and_packages.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="9_python_modules_and_packages.py" />
+    <MESSAGE value="0_python_tutorial_outline" />
+    <option name="LAST_COMMIT_MESSAGE" value="0_python_tutorial_outline" />
   </component>
 </project>
