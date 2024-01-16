@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="7_file_handling_in_python.py" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="8_python_standard_library.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
     "Python.5_exception_handling_in_python.executor": "Run",
     "Python.6_functional_programming_in_python.executor": "Run",
     "Python.7_file_handling_in_python.executor": "Run",
+    "Python.8_python_standard_library.executor": "Run",
     "Python.advanced_data_types.executor": "Run",
     "Python.basics_of_python.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -147,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705370944562</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="8_python_standard_library.py">
+      <option name="closed" value="true" />
+      <created>1705371354300</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705371354300</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +181,7 @@
     <MESSAGE value="5_exception_handling_in_python.py" />
     <MESSAGE value="6_functional_programming_in_python.py" />
     <MESSAGE value="7_file_handling_in_python.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_file_handling_in_python.py" />
+    <MESSAGE value="8_python_standard_library.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="8_python_standard_library.py" />
   </component>
 </project>
