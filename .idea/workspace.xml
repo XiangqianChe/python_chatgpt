@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="introduction_to_python.py" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="4_object_oriented_programming_in_python.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1_introduction_to_python.executor": "Run",
+    "Python.4_object_oriented_programming_in_python.executor": "Run",
     "Python.advanced_data_types.executor": "Run",
     "Python.basics_of_python.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -101,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705368737160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4_object_oriented_programming_in_python.py">
+      <option name="closed" value="true" />
+      <created>1705369152850</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705369152851</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +118,7 @@
     <MESSAGE value="basics_of_python.py" />
     <MESSAGE value="advanced_data_types.py" />
     <MESSAGE value="introduction_to_python.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="introduction_to_python.py" />
+    <MESSAGE value="4_object_oriented_programming_in_python.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="4_object_oriented_programming_in_python.py" />
   </component>
 </project>
