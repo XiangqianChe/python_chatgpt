@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="8_python_standard_library.py">
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="9_python_modules_and_packages.py">
+      <change afterPath="$PROJECT_DIR$/src/9_python_modules_and_packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_package/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my_package/module2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +60,7 @@
     "Python.6_functional_programming_in_python.executor": "Run",
     "Python.7_file_handling_in_python.executor": "Run",
     "Python.8_python_standard_library.executor": "Run",
+    "Python.9_python_modules_and_packages.executor": "Run",
     "Python.advanced_data_types.executor": "Run",
     "Python.basics_of_python.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -158,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705371354300</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="9_python_modules_and_packages.py">
+      <option name="closed" value="true" />
+      <created>1705420298207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420298207</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +196,7 @@
     <MESSAGE value="6_functional_programming_in_python.py" />
     <MESSAGE value="7_file_handling_in_python.py" />
     <MESSAGE value="8_python_standard_library.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="8_python_standard_library.py" />
+    <MESSAGE value="9_python_modules_and_packages.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="9_python_modules_and_packages.py" />
   </component>
 </project>
