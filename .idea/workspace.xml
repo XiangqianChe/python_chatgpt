@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="14_machine_learning_in_python_with_scikit_learn.py">
-      <change afterPath="$PROJECT_DIR$/src/15_natural_language_processing_in_python_with_nltk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="15_natural_language_processing_in_python_with_nltk.py">
+      <change afterPath="$PROJECT_DIR$/src/16_web_scraping_in_python_with_beautifulsoup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705436111990</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="15_natural_language_processing_in_python_with_nltk.py">
+      <option name="closed" value="true" />
+      <created>1705437441159</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705437441159</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +260,7 @@
     <MESSAGE value="12_web_development_in_python_with_flask.py" />
     <MESSAGE value="13_data_science_in_python_with_pandas.py" />
     <MESSAGE value="14_machine_learning_in_python_with_scikit_learn.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="14_machine_learning_in_python_with_scikit_learn.py" />
+    <MESSAGE value="15_natural_language_processing_in_python_with_nltk.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="15_natural_language_processing_in_python_with_nltk.py" />
   </component>
 </project>
