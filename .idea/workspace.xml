@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="16_web_scraping_in_python_with_beautifulsoup.py">
-      <change afterPath="$PROJECT_DIR$/src/17_gui_programming_in_python_with_tkinter.py" afterDir="false" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="17_gui_programming_in_python_with_tkinter.py">
+      <change afterPath="$PROJECT_DIR$/src/18_web_development_with_django.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -49,6 +67,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.10_python_decorators_and_generators.executor": "Run",
     "Python.11_concurrency_and_parallelism_in_python.executor": "Run",
     "Python.12_web_development_in_python_with_flask.executor": "Run",
@@ -66,11 +85,18 @@
     "Python.9_python_modules_and_packages.executor": "Run",
     "Python.advanced_data_types.executor": "Run",
     "Python.basics_of_python.executor": "Run",
+    "Python.models.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chexq\PycharmProjects\python_chatgpt\src\myproject\myproject" />
+      <recent name="C:\Users\chexq\PycharmProjects\python_chatgpt\src\myproject\myapp" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -239,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705437883702</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="17_gui_programming_in_python_with_tkinter.py">
+      <option name="closed" value="true" />
+      <created>1705438206439</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1705438206439</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +306,7 @@
     <MESSAGE value="14_machine_learning_in_python_with_scikit_learn.py" />
     <MESSAGE value="15_natural_language_processing_in_python_with_nltk.py" />
     <MESSAGE value="16_web_scraping_in_python_with_beautifulsoup.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="16_web_scraping_in_python_with_beautifulsoup.py" />
+    <MESSAGE value="17_gui_programming_in_python_with_tkinter.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="17_gui_programming_in_python_with_tkinter.py" />
   </component>
 </project>
