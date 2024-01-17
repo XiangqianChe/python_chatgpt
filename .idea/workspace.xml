@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="19_testing_in_python_with_pytest.py">
-      <change afterPath="$PROJECT_DIR$/src/20_best_practices_and_in_python.py" afterDir="false" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="20_best_practices_and_advanced_tips_in_python.py">
+      <change afterPath="$PROJECT_DIR$/src/21_latest_features_in_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/example.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,8 @@
     "Python.16_web_scraping_in_python_with_beautifulsoup.executor": "Run",
     "Python.17_gui_programming_in_python_with_tkinter.executor": "Run",
     "Python.1_introduction_to_python.executor": "Run",
+    "Python.20_best_practices_and_advanced_tips_in_python.executor": "Run",
+    "Python.21_latest_features_in_python.executor": "Run",
     "Python.4_object_oriented_programming_in_python.executor": "Run",
     "Python.5_exception_handling_in_python.executor": "Run",
     "Python.6_functional_programming_in_python.executor": "Run",
@@ -281,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705456045315</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="20_best_practices_and_advanced_tips_in_python.py">
+      <option name="closed" value="true" />
+      <created>1705456608258</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1705456608258</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +330,7 @@
     <MESSAGE value="18_web_development_with_django.py" />
     <MESSAGE value="add data for item_list.html" />
     <MESSAGE value="19_testing_in_python_with_pytest.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="19_testing_in_python_with_pytest.py" />
+    <MESSAGE value="20_best_practices_and_advanced_tips_in_python.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="20_best_practices_and_advanced_tips_in_python.py" />
   </component>
 </project>
