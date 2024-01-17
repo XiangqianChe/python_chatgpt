@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="17_gui_programming_in_python_with_tkinter.py">
-      <change afterPath="$PROJECT_DIR$/src/18_web_development_with_django.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myproject/myproject/wsgi.py" afterDir="false" />
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="18_web_development_with_django.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/myproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705438206439</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="18_web_development_with_django.py">
+      <option name="closed" value="true" />
+      <created>1705454120343</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1705454120343</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +300,7 @@
     <MESSAGE value="15_natural_language_processing_in_python_with_nltk.py" />
     <MESSAGE value="16_web_scraping_in_python_with_beautifulsoup.py" />
     <MESSAGE value="17_gui_programming_in_python_with_tkinter.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="17_gui_programming_in_python_with_tkinter.py" />
+    <MESSAGE value="18_web_development_with_django.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="18_web_development_with_django.py" />
   </component>
 </project>

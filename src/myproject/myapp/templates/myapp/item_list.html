@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>ITEM_LIST</title>
+    <title>Item List</title>
 </head>
 <body>
-<div>I am Victor</div>
+    <h1>Item List</h1>
+    <ul>
+        {% for item in items %}
+            <li>{{ item.name }} - {{ item.description }}</li>
+        {% endfor %}
+    </ul>
 </body>
 </html>
