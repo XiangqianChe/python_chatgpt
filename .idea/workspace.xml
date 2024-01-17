@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="18_web_development_with_django.py">
+    <list default="true" id="4f1ec092-64cc-4f03-a8f1-dba152b58364" name="Changes" comment="add data for item_list.html">
+      <change afterPath="$PROJECT_DIR$/src/19_testing_in_python_with_pytest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/myproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/myproject/myapp/templates/myapp/item_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in 19_testing_in_python_with_pytest.py.executor": "Run",
     "Python.10_python_decorators_and_generators.executor": "Run",
     "Python.11_concurrency_and_parallelism_in_python.executor": "Run",
     "Python.12_web_development_in_python_with_flask.executor": "Run",
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705454120343</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add data for item_list.html">
+      <option name="closed" value="true" />
+      <created>1705455244764</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1705455244764</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +309,7 @@
     <MESSAGE value="16_web_scraping_in_python_with_beautifulsoup.py" />
     <MESSAGE value="17_gui_programming_in_python_with_tkinter.py" />
     <MESSAGE value="18_web_development_with_django.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="18_web_development_with_django.py" />
+    <MESSAGE value="add data for item_list.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data for item_list.html" />
   </component>
 </project>
